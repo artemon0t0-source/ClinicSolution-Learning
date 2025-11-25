@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicCore.Tests", "TestPro
 		{C70D2D1F-B77E-41B6-BD83-F65729071171} = {C70D2D1F-B77E-41B6-BD83-F65729071171}
 	EndProjectSection
 EndProject
-Global
+Global 
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -32,3 +32,4 @@ Global
 		SolutionGuid = {385496C3-0D97-42A7-8C89-DFE2BF3E3C94}
 	EndGlobalSection
 EndGlobal
+
